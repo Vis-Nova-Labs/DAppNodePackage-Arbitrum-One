@@ -1,4 +1,4 @@
-name: Bump upstream version
+ame: Bump upstream version
 
 on:
   schedule:
@@ -6,11 +6,13 @@ on:
   push:
     branches:
       - "master"
+      - "main"
+
 jobs:
-  bump-upstream:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: npx @dappnode/dappnodesdk github-action bump-upstream
-        with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+      - run: npx @dappnode/dappnodesdk github-action bump-upstream
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
