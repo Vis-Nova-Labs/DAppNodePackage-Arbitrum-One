@@ -16,5 +16,12 @@
     "endpoint": "http://arbitrum-node.arbitrum.dappnode:8547",
     "homepage": "https://github.com/OffchainLabs/arbitrum"
   },
+  "bugs": {
+    "url": "https://github.com/Nabsku/DAppNodePackage-Arbitrum/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nabsku/DAppNodePackage-Arbitrum.git"
+  },
   "license": "Apache 2"
 }
