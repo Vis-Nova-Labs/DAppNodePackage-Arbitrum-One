@@ -16,5 +16,5 @@
     "endpoint": "http://arbitrum-node.arbitrum.dappnode:8547",
     "homepage": "https://github.com/OffchainLabs/arbitrum"
   },
-  "license": "GLP-3.0"
+  "license": "Apache 2"
 }
