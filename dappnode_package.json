@@ -1,0 +1,20 @@
+{
+  "name": "arbitrum.dnp.dappnode.eth",
+  "version": "0.2.0",
+  "description": "Arbitrum Mainnet Node",
+  "shortDescription": "Arbitrum Node, written in Go",
+  "upstreamVersion": "v1.2.1-baf03bb",
+  "upstreamRepo": "OffchainLabs/arbitrum",
+  "upstreamArg": "UPSTREAM_VERSION",
+  "type": "service",
+  "author": "Nabsku <thenabsku@gmail.com> (https://github.com/Nabsku)",
+  "chain": "ethereum",
+  "architectures": ["linux/amd64"],
+  "contributors": ["Nabsku <thenabsku@gmail.com> (https://github.com/Nabsku)"],
+  "categories": ["Developer tools"],
+  "links": {
+    "endpoint": "http://arbitrum-node.arbitrum.dappnode:8547",
+    "homepage": "https://github.com/OffchainLabs/arbitrum"
+  },
+  "license": "GLP-3.0"
+}
