@@ -1,4 +1,4 @@
-ame: Bump upstream version
+name: Bump upstream version
 
 on:
   schedule:
