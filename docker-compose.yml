@@ -4,7 +4,7 @@ services:
     build:
       context: build
       args:
-        UPSTREAM_VERSION: v1.2.1-baf03bb
+        UPSTREAM_VERSION: v1.3.0-beta2
     ports:
       - 8547/tcp
       - 8548/tcp
@@ -12,7 +12,8 @@ services:
       - "data:/home/user/.arbitrum/mainnet"
     environment:
       ETH1_RPC_URL: "http://geth.dappnode:8545"
-    image: "arbitrum-node.arbitrum.dnp.dappnode.eth:0.2.0"
+      EXTRA_OPTS: ""
+    image: "arbitrum-node.arbitrum.dnp.dappnode.eth:0.1.0"
     restart: unless-stopped
 volumes:
   data: {}
