@@ -1,5 +1,5 @@
 {
-  "name": "arbitrum.dnp.dappnode.eth",
+  "name": "arbitrum.public.dappnode.eth",
   "version": "0.1.0",
   "description": "Arbitrum Mainnet Node",
   "shortDescription": "Arbitrum Node, written in Go",
