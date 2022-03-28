@@ -8,7 +8,6 @@
   "upstreamArg": "UPSTREAM_VERSION",
   "type": "service",
   "author": "Nabsku <thenabsku@gmail.com> (https://github.com/Nabsku)",
-  "chain": "ethereum",
   "architectures": ["linux/amd64"],
   "contributors": ["Nabsku <thenabsku@gmail.com> (https://github.com/Nabsku)"],
   "categories": ["Developer tools"],
