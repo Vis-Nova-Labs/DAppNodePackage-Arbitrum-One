@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/OffchainLabs/arbitrum/blob/master/docs/assets/offchain_labs_logo.png" width="600"></p>
 
 # Latest IPFS hash
-  Release hash : /ipfs/QmaSux1PSGWTc7Qu9FtUsinHBTFy8yRwXAZpJPibqdDXoG
-  http://my.dappnode/#/installer/%2Fipfs%2FQmaSux1PSGWTc7Qu9FtUsinHBTFy8yRwXAZpJPibqdDXoG
+  Release hash : /ipfs/QmWreykhiyRUoh1ZLyfRBmJdmmrDJKePftfr3tTFWdChQK
+  http://my.dappnode/#/installer/%2Fipfs%2FQmWreykhiyRUoh1ZLyfRBmJdmmrDJKePftfr3tTFWdChQK
 
 # Important Info
 
