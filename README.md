@@ -5,7 +5,14 @@
   http://my.dappnode/#/installer/%2Fipfs%2FQmYBhHAqW7uXLH4Hx1AKu2EMeeo33cgmFtABtBJ3G3G8Mo
 # Important Info
 
-This package requires a NVMe drive or faster. Syncing takes at least 2 days on an NVMe. A node reboot requires you to run through all blocks again. There is also no fast sync mode. When Arbitrum Nitro is released, it should be akin to running a normal geth node. But until then, this is what we have.
+This package requires a NVMe drive or faster. Syncing takes at least 2 days on an NVMe. A node reboot requires you to run through most of the state in the DB again. There is also no fast sync mode. When Arbitrum Nitro is released, it should be akin to running a normal geth node. But until then, this is what we have.
+
+# Used Ports
+
+| Port | Used For |
+| ---- | -------- |
+| 8547 | JSON-RPC |
+| 8548 | WebSocket|
 
 # Arbitrum Mainnet Beta Node
 
@@ -16,4 +23,3 @@ Arbitrum is a Layer 2 cryptocurrency platform that makes smart contracts scalabl
 # License
 
 This repository is offered under the Apache 2.0 license. See LICENSE for details.
-
