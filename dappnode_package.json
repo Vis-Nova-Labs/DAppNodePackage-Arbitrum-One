@@ -13,7 +13,8 @@
   "categories": ["Developer tools"],
   "links": {
     "endpoint": "http://arbitrum-node.arbitrum.public.dappnode:8547",
-    "homepage": "https://github.com/OffchainLabs/arbitrum"
+    "homepage": "https://github.com/OffchainLabs/arbitrum",
+    "docs": "https://developer.offchainlabs.com/docs/running_node"
   },
   "bugs": {
     "url": "https://github.com/Nabsku/DAppNodePackage-Arbitrum/issues"
