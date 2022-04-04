@@ -1,8 +1,5 @@
 <p align="center"><img src="https://github.com/OffchainLabs/arbitrum/blob/master/docs/assets/offchain_labs_logo.png" width="600"></p>
 
-# Latest IPFS hash
-  Release hash : /ipfs/QmYBhHAqW7uXLH4Hx1AKu2EMeeo33cgmFtABtBJ3G3G8Mo
-  http://my.dappnode/#/installer/%2Fipfs%2FQmYBhHAqW7uXLH4Hx1AKu2EMeeo33cgmFtABtBJ3G3G8Mo
 # Important Info
 
 This package requires a NVMe drive or faster. Syncing takes at least 2 days on an NVMe. A node reboot requires you to run through most of the state in the DB again. There is also no fast sync mode. When Arbitrum Nitro is released, it should be akin to running a normal geth node. But until then, this is what we have.
