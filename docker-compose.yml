@@ -13,7 +13,7 @@ services:
     environment:
       ETH1_RPC_URL: "http://geth.dappnode:8545"
       EXTRA_OPTS: ""
-    image: "arbitrum-node.arbitrum.public.dappnode.eth:0.1.1"
+    image: "arbitrum-node.arbitrum.public.dappnode.eth:1.3.0"
     restart: unless-stopped
 volumes:
   data: {}
