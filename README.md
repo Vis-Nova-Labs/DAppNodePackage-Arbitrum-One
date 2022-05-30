@@ -4,7 +4,7 @@ DAppStore Link: [Install Arbitrum Package](http://my.dappnode/#/installer/arbitr
 
 # Important Info
 
-This package requires a NVMe drive or faster. Syncing takes at least 2 days on an NVMe. A node reboot requires you to run through most of the state in the DB again. There is also no fast sync mode. When Arbitrum Nitro is released, it should be akin to running a normal geth node. But until then, this is what we have.
+This package requires a NVMe drive or faster. It will also take up a lot of ressources (CPU & RAM). If you do not have enough of both, arbitrum or other packages might crash. Syncing takes at least 4 days on an NVMe. A node reboot requires you to run through most of the state in the DB again. There is also no fast sync mode. When Arbitrum Nitro is released, it should be akin to running a normal geth node. But until then, this is what we have.
 
 # Used Ports
 
